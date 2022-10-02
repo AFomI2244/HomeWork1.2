@@ -6,7 +6,7 @@ public class Main {
         System.out.println(friend);
         friend = friend + 2;
         System.out.println(friend);
-        friend = friend / 2;
+        friend = friend / 7;
         System.out.println(friend);
 
         //Задание 5
